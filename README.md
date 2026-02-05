@@ -34,7 +34,7 @@ All sources are public and listed in `sources.yml`. Example sources:
 <img src="assets\padcare_ragbot_architecture.png" width="800"/>
 
 ## Streamlit UI
-<img src="assets\padcare_gpt.png" width="800"/> 
+<img src="assets\Padcare_gpt.png" width="800"/> 
 
 ## Run locally (Windows)
 ### 1) Install Ollama + pull Mistral
